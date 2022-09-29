@@ -1,0 +1,14 @@
+{
+  "name": "my_modal",
+  "version": "1.0.0",
+  "description": "Technical excecise 2.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tenzin Woeser",
+  "license": "ISC",
+  "dependencies": {
+    "modaal": "^0.4.4"
+  }
+}
